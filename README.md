@@ -7,8 +7,8 @@ Designed by LeeSoundLab.
 https://leesoundlab.github.io/tube-amp-simulator/
 
 ## 🛠️ Features
-- **Non-linear Harmonic Generation**: Taylor Series based waveshaping for real tube saturation.
-- **8 Tube Profiles**: 300B, 2A3, 45, EL34, KT66, KT88, 6550, and Bypass.
+- **Non-linear Harmonic Generation**: Taylor Series-based waveshaping for real tube saturation.
+- **7 Tube Profiles**: 300B, 2A3, 45, EL34, KT66, KT88, 6550, and Bypass.
 - **Studio Quality**: 4x Oversampling for artifact-free high-frequency response.
 - **Hotkeys**: Space(Play/Pause), Up/Down(Skip tracks).
 
