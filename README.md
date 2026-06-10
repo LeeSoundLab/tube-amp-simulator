@@ -4,7 +4,7 @@ Pure Tube Engine based on non-linear mathematical modeling.
 Designed by LeeSoundLab.
 
 ## 🚀 Try it Live
-[https://your-github-id.github.io/tube-amp-simulator/](https://your-github-id.github.io/tube-amp-simulator/)
+(https://leesoundlab.github.io/tube-amp-simulator/)
 
 ## 🛠️ Features
 - **Non-linear Harmonic Generation**: Taylor Series based waveshaping for real tube saturation.
