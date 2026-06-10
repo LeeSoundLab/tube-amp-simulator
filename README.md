@@ -14,7 +14,7 @@ https://leesoundlab.github.io/tube-amp-simulator/
 
 ## ☕ Support LeeSoundLab
 If you enjoy this project, consider supporting the development!
-[Buy Me a Coffee / Ko-fi Link Here]
+[[Ko](https://ko-fi.com/leesoundlab)]
 
 ## 📜 Copyright
 Copyright © 2026 LeeSoundLab. All rights reserved.
